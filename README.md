@@ -1,6 +1,6 @@
 # oroodkom
 
-A new Flutter project.
+A product display system for stores with a simple and easy-to-use user interface
 
 ## Getting Started
 
